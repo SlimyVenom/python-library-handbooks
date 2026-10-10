@@ -12,6 +12,7 @@ working with various Python libraries.
 - [Pandas](./Pandas%20Handbook.md)
 - [SciPy](./SciPy%20Handbook.md)
 - [Scikit-Learn](./Scikit-Learn%20Handbook.md)
+- [Matplotlib](./Matplotlib%20Handbook.md)
 - [Other APIs](./Other%20APIs.md)
 
 ## Purpose
@@ -44,6 +45,11 @@ Notes on scientific computing functionality provided by SciPy.
 
 Notes on machine learning tools and APIs provided by Scikit-Learn,
 including preprocessing, models, clustering, and evaluation.
+
+### Matplotlib
+
+Notes on data visualization using Matplotlib, including line plots,
+scatter plots, plot customization, figures, axes, and subplots.
 
 ### Other APIs
 
